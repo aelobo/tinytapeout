@@ -1,7 +1,7 @@
 // =============================================================================
 // max7219 implementation
 //      - used this RTL for my 18500 project in Spring 2026
-//      - https://github.com/cerkit/max7219TinyFPGA
+//      - based off of https://github.com/cerkit/max7219TinyFPGA
 //
 // =============================================================================
 
